@@ -59,21 +59,15 @@
 
 ### Submit your Problem Set
 
-0. NOTE: when you first launched your Codespace, a script ran and (among other
-   things) created a _branch_ called `solution`. That's the branch you've been
-   working on.
 1. **Stage** your changes: `git add .` from the root directory. (You can also
    use the VS Code source control tool.)
 2. **Commit** your changes with a commit message:
-   `git commit -m "completed problem set"`
-3. **Push** your changes to your repository: `git push origin solution`.
-4. Navigate to your assignment repository and **open a pull request**: a request
-   to merge the changes in your `solution` branch into your `main` branch.
-   - Opening a pull request lets me know your problem set is ready to be graded.
-   - For this problem set, you're not required to write a pull request
-     description, but you may use the space to leave me any notes or ask
-     questions.
-   - The pull request also gives me a way to leave feedback on your code.
+   `git commit -m "completed PS02"`
+3. **Push** your changes to your repository: `git push`.
+4. Navigate to your assignment repository and verify that your commits have been
+   added.
+   - When your repository is created, GitHub will create a _pull request_. This
+     is where I will leave feedback.
 
 ## Specs
 
